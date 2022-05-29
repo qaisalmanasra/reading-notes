@@ -1,0 +1,8 @@
+![](../screenshots/typing/typing%201.jpg)
+![](../screenshots/typing/typing%202.jpg)
+![](../screenshots/typing/typing%203.jpg)
+![](../screenshots/typing/typing%204.jpg)
+![](../screenshots/typing/typing%205.jpg)
+![](../screenshots/typing/typing%206.jpg)
+![](../screenshots/typing/typing%207.jpg)
+![](../screenshots/typing/progress.jpg)
