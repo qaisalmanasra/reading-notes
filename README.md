@@ -13,14 +13,17 @@
 ***
 >
 > - ## ***`Code 401 - Advanced Software Development`***
-#### Readings: [Express](/advance/Express.md)
-#### Practice: [GIT](/advance/git.md)
-#### Practice: [SQL](/advance/sql.md)
-#### Practice: [Typing](/advance/typing.md)
-#### Practice: [CMD](/advance/Practiseinterminal.md)
+
+|Prep|Week1|Week2|Week3|Week4|
+|----------|:-------------:|:---------|:-------------|----:|
+|[GIT](/advance/git.md)|[Express](/advance/Express.md)| |    |
+|[SQL](/advance/sql.md)|[Express-Routing-Middlewares](/advance/Express-Routing-Middlewares.md)|  |    |
+|[Typing](/advance/typing.md)|  |   |         |
+|[CMD](/advance/Practiseinterminal.md)|   |       |      |
 
 ***
 ## Things I want to know more about
+* #### All the differences between classes and functions. 
 
 ***
 
