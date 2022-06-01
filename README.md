@@ -18,7 +18,7 @@
 |----------|:-------------:|:---------|:-------------|----:|
 |[GIT](/advance/git.md)|[Express](/advance/Express.md)| |    |
 |[SQL](/advance/sql.md)|[Express-Routing-Middlewares](/advance/Express-Routing-Middlewares.md)|  |    |
-|[Typing](/advance/typing.md)|  |   |         |
+|[Typing](/advance/typing.md)|[Linked Lists](/advance/Linked-Lists.md)|   |         |
 |[CMD](/advance/Practiseinterminal.md)|   |       |      |
 
 ***
