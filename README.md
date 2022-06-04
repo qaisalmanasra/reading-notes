@@ -16,7 +16,7 @@
 
 |Prep|Week1|Week2|Week3|Week4|
 |----------|:-------------:|:---------|:-------------|----:|
-|[GIT](/advance/git.md)|[Express](/advance/Express.md)| |    |
+|[GIT](/advance/git.md)|[Express](/advance/Express.md)|[Sequelize](/advance/sequelize.md) |    |
 |[SQL](/advance/sql.md)|[Express-Routing-Middlewares](/advance/Express-Routing-Middlewares.md)|  |    |
 |[Typing](/advance/typing.md)|[Linked Lists](/advance/Linked-Lists.md)|   |         |
 |[CMD](/advance/Practiseinterminal.md)|   |       |      |
