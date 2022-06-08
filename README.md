@@ -17,8 +17,8 @@
 |Prep|Week1|Week2|Week3|Week4|
 |----------|:-------------:|:---------|:-------------|----:|
 |[GIT](/advance/git.md)|[Express](/advance/Express.md)|[Sequelize](/advance/sequelize.md) |    |
-|[SQL](/advance/sql.md)|[Express-Routing-Middlewares](/advance/Express-Routing-Middlewares.md)| [sequelize-normalization](./advance/sequelize-normalization.md) |    |
-|[Typing](/advance/typing.md)|[Linked Lists](/advance/Linked-Lists.md)|   |         |
+|[SQL](/advance/sql.md)|[Express-Routing-Middlewares](/advance/Express-Routing-Middlewares.md)| [Sequelize-Normalization](./advance/sequelize-normalization.md) |    |
+|[Typing](/advance/typing.md)|[Linked Lists](/advance/Linked-Lists.md)|[Authentication](./advance/authentication.md)|         |
 |[CMD](/advance/Practiseinterminal.md)|   |       |      |
 
 ***
