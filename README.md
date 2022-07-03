@@ -14,9 +14,9 @@
 >
 > - ## ***`Code 401 - Advanced Software Development`***
 
-|Prep|Week1|Week2|Week3|Week4|Week5
-|----------|:-------------:|:---------|:-------------|:---|----:|
-|[GIT](/advance/git.md)|[Express](/advance/Express.md)|[Sequelize](/advance/sequelize.md) |[Bearer Authentication](/advance/bearer.md)| [Authorization/Authentication](./advance/Authorization-Authentication.md)|[Socket](./advance/socket.md)
+|Prep|Week1|Week2|Week3|Week4|Week5|Week6
+|----------|:-------------:|:---------|:-------------|:---|:---|----:|
+|[GIT](/advance/git.md)|[Express](/advance/Express.md)|[Sequelize](/advance/sequelize.md) |[Bearer Authentication](/advance/bearer.md)| [Authorization/Authentication](./advance/Authorization-Authentication.md)|[Socket](./advance/socket.md)|[Trees](./advance/trees.md)
 |[SQL](/advance/sql.md)|[Express-Routing-Middlewares](/advance/Express-Routing-Middlewares.md)| [Sequelize-Normalization](./advance/sequelize-normalization.md) |[Access Control](/advance/AccessControl.md)|[Stacks and Queues](./advance/StacksQueues.md)|[Message Queues](./advance/MessageQueues.md)
 |[Typing](/advance/typing.md)|[Linked Lists](/advance/Linked-Lists.md)|[Authentication](./advance/authentication.md)||[Event](./advance/event.md)
 |[CMD](/advance/Practiseinterminal.md)|   |       |      |
