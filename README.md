@@ -26,7 +26,8 @@
 |Week1|
 |----------|
 |[Component Based UI](./advance/front/UI.md)|
-|[Hooks](./advance/front/hooks.md)
+|[Hooks](./advance/front/hooks.md)|
+[Effects Hook](./advance/front/effectsHook.md)
 
 ***
 ## Things I want to know more about
