@@ -27,7 +27,9 @@
 |----------|
 |[Component Based UI](./advance/front/UI.md)|
 |[Hooks](./advance/front/hooks.md)|
-[Effects Hook](./advance/front/effectsHook.md)
+|[Effects Hook](./advance/front/effectsHook.md)|
+|[Advanced State with Reducers](./advance/front/useReducer.md)
+
 
 ***
 ## Things I want to know more about
